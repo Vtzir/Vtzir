@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">ゲームハッキング開発者</h1>
 
-<!--
-**Vtzir/Vtzir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://discord.gg/JfFMRzZRvU" target="_blank">
+    <img src="https://th.bing.com/th/id/OIP.CJ75tmjgpXI8NLX4B8X5PwHaFh?rs=1&pid=ImgDetMain" alt="Dev in" width="900"> 
+</a>
 
-Here are some ideas to get you started:
+<h2 align="left">Dev in</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" alt="unrealengine logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=410e02f54c8240d3" target="_blank">
+      <img alt="Recent played Music" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" height="30">
+    </a>
+    <a href="https://discord.com/users/375763908922703872" target="_blank">
+      <img alt="Discord Profile" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="30">
+    </a>
+  </div>
+
+###
